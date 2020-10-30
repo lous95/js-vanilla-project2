@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    min-height: 100vh;
+}
+
+.container {
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center ;
+}
+
+.button-container{
+    display: block;
+}
+
+#value{
+    font-size: 50px;
+}
+
+.button-container{
+    margin: 20px;
+}
+
+.btn{
+    background-color: yellow;
+    border: none;
+    color:black;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
